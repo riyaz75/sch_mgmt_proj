@@ -1,2 +1,3 @@
 # sch_mgmt_proj
-This is project for multi school management
+This code is a project of multi school management.
+Code by Riyaz
